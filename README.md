@@ -1,6 +1,16 @@
 # ml-dl
-2 machie learning projects:
+5 machine learning projects:
 
 Machine Learning project to clean the employee dataset and establish relation between various fields.
 
-Machine Learning project to perform naive bayes classifer on diabetes dataset.
+Collaborative Filtering with sci-kit learn.
+
+Predictive analysis with Naive Bayes Algorithm for Indian pima diabetes dataset.
+
+Kickstarter crowdfunding project with Logistic Regression.
+
+Credit Fraud Detection using Grid Search Cross Validation with Logistic Regression and Random Forest classification.
+
+
+
+
